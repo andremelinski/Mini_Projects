@@ -1,5 +1,5 @@
-Todos os projetos realizados tem o intuito de aprimorar minha habilidade nas mais diversas linguagens. 
-Arquivos: 
+# Todos os projetos realizados tem o intuito de aprimorar as minhas habilidades nas mais diversas linguagens. 
+## Arquivos: 
 - Budget: Projeto para o controle financeiro pessoal apenas utilizando JavaScript e front-end para uma interface com o usuário;
 - Candy: Projeto utilizando apelas CSS com o framework Bootstrap 4 e HTML para a criação de um site para uma loja de doces;
 - Spaceinvader: Clone do jogo Space Invader realizado utilizando a linguagem Python, com o framework Pymage;
